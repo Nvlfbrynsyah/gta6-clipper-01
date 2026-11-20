@@ -1,0 +1,6 @@
+out/
+out2/
+.footage/
+.gta6-*
+*.mp4
+!clip.mp4
